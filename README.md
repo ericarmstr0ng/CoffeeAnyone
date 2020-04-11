@@ -1,7 +1,7 @@
 # Coffee,Anyone?
 ---
 #### _CoffeeAnyone Dating Application_
-
+![chatimage](https://github.com/ingloriousloki/CoffeeAnyone/blob/master/chatimage.jpg)
 Team Members: _Carrie Davis, Eric Armstrong, Nicholas Schaffner_ 
 
 This particular project came from embracing the idea that people do have a type and would like to find a long-term match in the dating pool. This iOS application will provide an easy to use step-by-step method to find people that match what a user is really looking for in a mate without allowing for smoke and mirrors in the profile creation process.
