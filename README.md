@@ -1,4 +1,4 @@
-# CS 467 Winter 2020 Capstone Project
+# Coffee,Anyone?
 ---
 #### _CoffeeAnyone Dating Application_
 
