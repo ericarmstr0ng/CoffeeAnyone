@@ -1,6 +1,8 @@
 # Coffee,Anyone?
 ---
+![landingimage](https://github.com/ingloriousloki/CoffeeAnyone/blob/master/landingimage.jpg)
 ![chatimage](https://github.com/ingloriousloki/CoffeeAnyone/blob/master/chatimage.jpg)
+![profileimage](https://github.com/ingloriousloki/CoffeeAnyone/blob/master/profileimage.jpg)
 #### _CoffeeAnyone Dating Application_
 
 Team Members: _Carrie Davis, Eric Armstrong, Nicholas Schaffner_ 
